@@ -76,14 +76,4 @@ a{
     font-size: 1.2em;
     cursor: pointer; 
 }
-footer{
-    background-color: yellow;
-    display: flex;
-    justify-content: center;
-}
-.icons{
-    color: white;
-    font-size: 1.8em;
-    padding: 30px;
-}
   
